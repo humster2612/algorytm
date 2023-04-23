@@ -1,1 +1,1 @@
-# algorytm
+# algorytmy
